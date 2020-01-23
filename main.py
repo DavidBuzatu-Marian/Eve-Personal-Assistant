@@ -12,6 +12,10 @@ from time import ctime
 recognizer = sr.Recognizer()
 
 
+def some_FUNCTION():
+    print('dsds')
+
+
 def save_file_to_git():
     p = subprocess.Popen("C:\Progra~1\Git\git-bash.exe ./shellGitSave.sh",
                          bufsize=-1,
