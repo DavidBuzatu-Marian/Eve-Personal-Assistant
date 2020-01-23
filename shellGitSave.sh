@@ -1,1 +1,1 @@
-git add . ; git commit -m "Testing one line command" ; git push
+git add . ; git commit -m "Testing one line command" ; git push origin master
